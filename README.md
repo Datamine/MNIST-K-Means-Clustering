@@ -11,4 +11,4 @@ Inspired by a homework assignment in John Lafferty's [Large-Scale Data Analysis]
 
 -----
 
-See my blog post on this project [here](www.johnloeber.com/docs/kmeans.html)
+See my blog post on this project [here](http://johnloeber.com/docs/kmeans.html).
